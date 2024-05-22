@@ -1,0 +1,139 @@
+.hidden {
+    display: none;
+}
+.styles__ButtonContainer-sc-1532ppx-10 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.styles__ReadDescriptionButton-sc-1532ppx-11 {
+    margin-top: 10px; 
+    border: 2px solid black;
+background-color: #f8f9fa;
+COLOR: black;
+}
+body {
+font-family: 'Arial', sans-serif;
+margin: 0;
+padding: 0;
+background-color: #dee2e6;
+}
+
+main {
+margin: auto;
+margin-top: 64px;
+}
+#section{
+margin: 10px 30px;
+}
+
+.job__Main-hinme4-0 {
+background: linear-gradient(45deg, #f8f9fa, #103d7c);
+border-radius: 8px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+color:black;
+margin-bottom: 30px;
+padding: 20px;
+padding-top: 86px;
+margin-top: -64px;
+}
+.styles__Container-sc-1532ppx-6 {
+margin-top: 30px;
+}
+.styles__TextJobTitle-sc-15yd6lj-4 {
+font-size: 24px;
+margin-bottom: 5px;
+}
+
+.styles__TextJobCompany-sc-15yd6lj-5 {
+font-size: 18px;
+opacity: 0.8;
+margin-bottom: 10px;
+}
+
+.styles__TextJobArea-sc-15yd6lj-7 {
+font-size: 14px;
+display: inline-block;
+align-items: center;
+margin-top: 5px;
+color: black;
+}
+
+.styles__TextJobSalary-sc-15yd6lj-8 {
+font-size: 20px;
+margin-top: 10px;
+}
+
+.styles__IconText-sc-15yd6lj-12 {
+margin-left: 5px;
+}
+
+.styles__IconContainer-sc-15yd6lj-11 {
+display: flex;
+align-items: center;
+margin-top: 10px;
+}
+
+.styles__Description-d77mis-4 {
+margin-left: 10px;
+color: #f0f0f0;
+}
+
+.styles__Heading-d77mis-2,
+.styles__Heading-sc-1532ppx-0 {
+font-size: 28px;
+margin-bottom: 15px;
+color: black;
+}
+
+.styles__RequirementWrapper-d77mis-3 {
+display: flex;
+align-items: center;
+margin-bottom: 10px;
+}
+
+.styles__RequirementWrapper-d77mis-3 svg {
+fill: white;
+margin-right: 5px;
+}
+
+.styles__Description-d77mis-4 {
+margin: 0;
+color: #666;
+}
+
+.styles__JobDetailBlockHeading-sc-1532ppx-2,
+.styles__JobDetailBlockValue-sc-1532ppx-3 {
+font-size: 18px;
+color: black;
+}
+
+.styles__JobDetailSection-sc-1532ppx-12 {
+margin-bottom: 20px;
+}
+
+.styles__JobDetailBlockContainer-sc-1532ppx-4 {
+display: flex;
+align-items: center;
+margin-bottom: 15px;
+}
+
+.styles__JobDetailBlockContainer-sc-1532ppx-4 svg {
+fill: white;
+margin-right: 10px;
+}
+
+.styles__Wrapper-sc-1532ppx-1 {
+margin-bottom: 20px;
+}
+
+.styles__JobDescriptionContainer-sc-1532ppx-17 h2{
+margin: 20px 3px;
+}
+.styles__JobDescriptionContainer-sc-1532ppx-17 p{
+margin: 20px 6px;
+}
+.styles__JobDescriptionContainer-sc-1532ppx-17{
+margin-top: 38px;
+}
